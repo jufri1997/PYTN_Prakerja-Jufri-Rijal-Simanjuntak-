@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+notebook
+
+tools
+install Anaconda di https://www.anaconda.com/products/distribution
+install Visual Studio Code 
+https://code.visualstudio.com/
